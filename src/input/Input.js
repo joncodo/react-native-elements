@@ -169,7 +169,7 @@ Input.propTypes = {
 const styles = {
   container: {
     width: '100%',
-    paddingHorizontal: 10,
+    paddingHorizontal: 0,
   },
   inputContainer: theme => ({
     flexDirection: 'row',
